@@ -3,6 +3,9 @@
 ## Introduction:
 In this practical case study, we explore the analysis of real-world data provided by Atliq Technologies, a highly regarded software and data solution company. The dataset specifically examines employee working preferences and sick leave percentages, with the ultimate aim of optimizing office space utilization and promoting employee engagement through team-building activities.
 
+![Benifits-of-HR-Analytics](https://github.com/thejagadeesh/Unleashing-HR-Insights-Empowering-Atliq-Technologies-through-DataAnalytics/assets/114074976/10b2d97e-c8dc-48c6-be9a-7bfa1fb5a473)
+
+
 ## Company Background: 
 
 Atliq Technologies is a  software and data solution company with a strong reputation for technological expertise.
@@ -17,6 +20,11 @@ The dataset provided by the HR department offers valuable insights into employee
 For this project, we utilized advanced tools and technologies to analyze the HR data, including Excel for data preprocessing, Power BI for data visualization and creating measures/calculations using DAX (Data Analysis Expressions), and Power Query for data transformation.
 
 ## HR Analytics Dashboard:
+![HR analytics Dashboard](https://github.com/thejagadeesh/Unleashing-HR-Insights-Empowering-Atliq-Technologies-through-DataAnalytics/assets/114074976/10f2ee26-2df0-4441-b10c-d524e0fcb368)
+
+## Powerbi Dashboard Link: 
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=8fce0689-f0f7-4cca-b0ae-ee997e4b9c4e&pbi_source=mobile_android&groupObjectId=01a86dc4-eb15-4ce6-86cc-269ef77e3f9f&appId=&reportObjectId=f425ccea-e92a-4a92-ab66-7cba727bd2fc&reportPage=ReportSection91900f6b2c779dbc97db&bookmarkGuid=67e9df11-0176-4376-996d-c719faa57be0
+
 
 
 ## Key Findings: 
