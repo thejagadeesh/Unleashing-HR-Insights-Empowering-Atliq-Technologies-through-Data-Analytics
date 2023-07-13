@@ -1,4 +1,5 @@
-# Unleashing-HR-Insights-Empowering-Atliq-Technologies-through-Data-Analytics
+<h1 align="center"> Unleashing HR Insights Empowering Atliq Technologies through Data Analytics</h1>
+
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Introduction:
 In this practical case study, we explore the analysis of real-world data provided by Atliq Technologies, a highly regarded software and data solution company. The dataset specifically examines employee working preferences and sick leave percentages, with the ultimate aim of optimizing office space utilization and promoting employee engagement through team-building activities.
